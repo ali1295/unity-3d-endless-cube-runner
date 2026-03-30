@@ -45,6 +45,11 @@ The player controls a cube that must avoid obstacles and survive as long as poss
 
 ---
 
+🎮 Gameplay Video
+https://drive.google.com/file/d/1VYG59sFFxC6D7-rPSBKmCBp9Wqs_khB2/view?usp=drive_link
+
+---
+
 ## 📁 Project Structure
 Assets/
 ├── Scripts/
